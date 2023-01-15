@@ -5,12 +5,6 @@ module-5-challenge
 
 A planner based on the typical 9-5 work hours that allows the user to save notes which will be placed in a past, present and future format. 
 
-## CodeQuiz
-#module-4-challenge
- 
-## Description
-
-A functioning quiz that allows the user to compare scores with one another. 
 
 ![schedule planner ](https://user-images.githubusercontent.com/118318413/212504613-21c3c323-fdd1-45db-94fd-7a6bb12eb56e.png)
 
